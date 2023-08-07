@@ -1,8 +1,8 @@
 # Water Warden
-### Overview
+## Overview
 Water Warden is an innovative and intelligent solution designed to ensure efficient water usage and prevent potential water wastage. This advanced device is your vigilant guardian, monitoring water levels in your tank with precision and automatically controlling the pump to safeguard against overflows and water scarcity.
 
-### Key Features
+## Key Features
 **1. Accurate Water Level Monitoring:** Water Warden employs cutting-edge sensors to provide real-time and accurate water level measurements in your tank, enabling you to stay informed at all times. \
 \
 **2. Automatic Pump Control:** With Water Warden, you can bid farewell to manual pump operation. The device intuitively detects when the tank reaches full capacity and promptly shuts off the pump to prevent overflow and unnecessary power consumption.\
